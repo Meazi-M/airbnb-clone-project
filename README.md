@@ -98,4 +98,23 @@ This section provides the design specifications based on the Figma design for th
 
 ## importance of a user-friendly design 
 --A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+### Importance of Identifying Design Properties in Mockup Design
+
+1. **Consistency in Visual Design**  
+   Defining clear design properties ensures a cohesive look and feel across the entire interface, maintaining a consistent visual experience for users.
+
+2. **User Experience (UX) Optimization**  
+   Well-defined design elements, such as button sizes, spacing, and layout, help create an intuitive and user-friendly interface, enhancing the overall user experience.
+
+3. **Improved Communication Between Teams**  
+   Clear design specifications foster better collaboration between design, development, and product teams, ensuring everyone is on the same page and reducing misunderstandings.
+
+4. **Brand Consistency**  
+   Identifying design properties ensures the product aligns with brand guidelines, strengthening brand identity and fostering user trust.
+
+5. **Responsiveness Across Devices**  
+   Defining design properties enables the creation of responsive layouts that adapt seamlessly to different screen sizes, ensuring a consistent experience on all devices.
+
+6. **Error Prevention**  
+   Precise design specifications minimize the risk of errors, such as overlapping elements or misaligned components, leading to smoother implementation and fewer revisions.
 
