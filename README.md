@@ -137,3 +137,11 @@ The footer will provide important links and company details.
 | **Property Listing View**   | Grid display of available properties with filters                  |
 | **Listing Detailed View**   | Complete property details with images and booking form             |
 | **Simple Checkout View**    | Streamlined payment and booking confirmation                       |
+### Manual Review
+
+To manually review this project, follow the steps below:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/airbnb-clone-project.git
+   cd airbnb-clone-project
