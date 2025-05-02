@@ -20,31 +20,6 @@ This document outlines the components and features of the UI/UX for the **Airbnb
 
 ---
 
-## Planned Components
-
-### 1. **Navbar**
-The navbar will contain key elements for user navigation and responsiveness.
-- **Logo**: The logo will be displayed on the left side of the navbar.
-- **Search Bar**: Users can search for properties by location, type, or other criteria.
-- **User Navigation**: Provides links for user login, profile, and account settings.
-- **Responsive Menu**: A hamburger-style menu for mobile or tablet users to navigate the site.
-
-### 2. **Property Card**
-The property card will display essential information about each listing in a clean, visually appealing format.
-- **Property Image**: High-quality images of the property to give users an idea of the space.
-- **Basic Details**: Displays important property details such as:
-  - Price
-  - Location
-  - Rating
-- **Favorite Button**: Users can add properties to their favorites list.
-- **Responsive Layout**: The property cards will adjust in layout to fit various screen sizes and devices.
-
-### 3. **Footer**
-The footer will provide important links and company details.
-- **Site Links**: Links to different sections of the site, such as Home, About Us, Contact, and FAQ.
-- **Company Information**: About the company, terms of service, privacy policy, etc.
-- **Social Media Links**: Links to the company's social media profiles (e.g., Facebook, Twitter, Instagram).
-- **Copyright Information**: Legal copyright notice at the bottom of the footer.
 
 ---
 
@@ -129,4 +104,36 @@ This section provides the design specifications based on the Figma design for th
 | **DevOps Engineers**    | Manages deployment, CI/CD pipeline, server infrastructure                      |
 | **Product Owner**       | Defines requirements, prioritizes features, represents stakeholders            |
 | **Scrum Master**        | Facilitates agile processes, removes blockers, organizes meetings              |
+## UI Component Patterns
 
+### 1. **Navbar**
+The navbar will contain key elements for user navigation and responsiveness.
+- **Logo**: The logo will be displayed on the left side of the navbar.
+- **Search Bar**: Users can search for properties by location, type, or other criteria.
+- **User Navigation**: Provides links for user login, profile, and account settings.
+- **Responsive Menu**: A hamburger-style menu for mobile or tablet users to navigate the site.
+
+### 2. **Property Card**
+The property card will display essential information about each listing in a clean, visually appealing format.
+- **Property Image**: High-quality images of the property to give users an idea of the space.
+- **Basic Details**: Displays important property details such as:
+  - Price
+  - Location
+  - Rating
+- **Favorite Button**: Users can add properties to their favorites list.
+- **Responsive Layout**: The property cards will adjust in layout to fit various screen sizes and devices.
+
+### 3. **Footer**
+The footer will provide important links and company details.
+- **Site Links**: Links to different sections of the site, such as Home, About Us, Contact, and FAQ.
+- **Company Information**: About the company, terms of service, privacy policy, etc.
+- **Social Media Links**: Links to the company's social media profiles (e.g., Facebook, Twitter, Instagram).
+- **Copyright Information**: Legal copyright notice at the bottom of the footer.
+
+### Primary Pages
+
+| Page                   | Description                                                         |
+|------------------------|---------------------------------------------------------------------|
+| **Property Listing View**   | Grid display of available properties with filters                  |
+| **Listing Detailed View**   | Complete property details with images and booking form             |
+| **Simple Checkout View**    | Streamlined payment and booking confirmation                       |
