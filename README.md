@@ -117,4 +117,16 @@ This section provides the design specifications based on the Figma design for th
 
 6. **Error Prevention**  
    Precise design specifications minimize the risk of errors, such as overlapping elements or misaligned components, leading to smoother implementation and fewer revisions.
+### Project Roles and Responsibilities
+
+| Role               | Responsibilities                                                                 |
+|--------------------|-----------------------------------------------------------------------------------|
+| **Project Manager**    | Oversees timeline, coordinates team, manages deliverables                         |
+| **Frontend Developers**| Implements UI components, ensures responsive design                             |
+| **Backend Developers** | Builds APIs, manages database, implements business logic                        |
+| **Designers**           | Creates mockups, maintains design system, ensures UX quality                   |
+| **QA/Testers**          | Writes test cases, performs testing, reports bugs                              |
+| **DevOps Engineers**    | Manages deployment, CI/CD pipeline, server infrastructure                      |
+| **Product Owner**       | Defines requirements, prioritizes features, represents stakeholders            |
+| **Scrum Master**        | Facilitates agile processes, removes blockers, organizes meetings              |
 
