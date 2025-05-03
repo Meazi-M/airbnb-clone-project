@@ -16,12 +16,8 @@ This project is an AirBnB clone, which aims to replicate the core functionality 
 - **Version Control**: Git, GitHub
 # UI/UX Design Planning
 
-This document outlines the components and features of the UI/UX for the **Airbnb Clone Project**.
-
 ---
 
-
----
 
 ## Next Steps
 
