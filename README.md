@@ -14,23 +14,32 @@ This project is an AirBnB clone, which aims to replicate the core functionality 
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: PostgreSQL
 - **Version Control**: Git, GitHub
-# UI/UX Design Planning
+## UI/UX Design Planning
 
+### Design Goals
+- Create intuitive booking flow  
+- Maintain visual consistency  
+- Ensure fast loading times  
+- Prioritize mobile responsiveness  
+
+### Key Features
+- Property search and filtering  
+- Detailed property viewing  
+- Secure checkout process  
+- User authentication  
+
+### Primary Pages
+
+| Page                 | Description                                                  |
+|----------------------|--------------------------------------------------------------|
+| Property Listing View | Grid display of available properties with filters           |
+| Listing Detailed View | Complete property details with images and booking form      |
+| Simple Checkout View  | Streamlined payment and booking confirmation                |
+
+###importance of a user-friendly design 
+--A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 ---
-
-
-## Next Steps
-
-- Implement wireframes and mockups based on the above components.
-- Prioritize mobile-first design for responsive layouts.
-- Ensure a clean and user-friendly interface for an intuitive browsing experience.
-# Figma Design Specifications
-
-This section provides the design specifications based on the Figma design for the **Airbnb Clone Project**.
-
----
-
-## Color Styles
+### Color Styles
 
 - **Primary**: `#FF5A5F`  
   The main color used for key elements such as buttons, icons, and highlights.
@@ -49,7 +58,7 @@ This section provides the design specifications based on the Figma design for th
 
 ---
 
-## Typography
+### Typography
 
 - **Primary Font**: Circular, Medium (500), 16px  
   This will be used for body text and general content. It provides a clean, modern look.
@@ -61,14 +70,6 @@ This section provides the design specifications based on the Figma design for th
   Used for secondary content like captions or less critical information, providing a lighter tone.
 
 ---
-
-## Next Steps
-
-- Implement these color and typography styles across all pages and components.
-- Maintain consistent use of these styles to ensure a cohesive and visually appealing user interface.
-
-## importance of a user-friendly design 
---A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 ### Importance of Identifying Design Properties in Mockup Design
 
 1. **Consistency in Visual Design**  
@@ -125,19 +126,3 @@ The footer will provide important links and company details.
 - **Company Information**: About the company, terms of service, privacy policy, etc.
 - **Social Media Links**: Links to the company's social media profiles (e.g., Facebook, Twitter, Instagram).
 - **Copyright Information**: Legal copyright notice at the bottom of the footer.
-
-### Primary Pages
-
-| Page                   | Description                                                         |
-|------------------------|---------------------------------------------------------------------|
-| **Property Listing View**   | Grid display of available properties with filters                  |
-| **Listing Detailed View**   | Complete property details with images and booking form             |
-| **Simple Checkout View**    | Streamlined payment and booking confirmation                       |
-### Manual Review
-
-To manually review this project, follow the steps below:
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/airbnb-clone-project.git
-   cd airbnb-clone-project
