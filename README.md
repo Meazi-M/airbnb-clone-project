@@ -9,7 +9,7 @@ This project is an AirBnB clone, which aims to replicate the core functionality 
 - Work with databases and server-side logic
 - Improve collaboration using Git and GitHub
 
-## Tech Stack
+## Technology Stack
 - **Backend**: Node.js, Express.js
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: PostgreSQL
